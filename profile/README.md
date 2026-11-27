@@ -2,13 +2,13 @@
 
 Welcome to Enterprise Agent Management.
 
-We develop software to help organizations build, manage, and govern AI agents.
+We develop software to help organizations build, manage, and govern intelligent agents.
 
-- **AI Agent Management** – Solutions to manage and monitor AI agents.
-- **AI Governance** – Tools to ensure responsible and controlled AI adoption.
-- **AI Automation** – Solutions to automate business processes.
-- **AI Products** – Building software for the next generation of AI-powered enterprises.
+- **Agent Management** – Solutions to manage, monitor, and control intelligent agents.
+- **Agent Governance** – Tools to ensure responsible, secure, and controlled agent operations.
+- **Business Automation** – Solutions to automate business processes and workflows.
+- **Enterprise Software** – Building innovative software for intelligent enterprises.
 
-**Building the future of enterprise AI.**
+**Building the future of intelligent enterprises.**
 
 Founded in 2026.
